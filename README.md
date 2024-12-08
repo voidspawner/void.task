@@ -29,7 +29,7 @@
 ## Payment
 
 Payment is made in **``voids``** internal currency. **``∞1 voids = $1``**
-Currency can be withdrawn in **BTC** · **USDT**
+Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Lang
 
@@ -45,9 +45,15 @@ Currency can be withdrawn in **BTC** · **USDT**
 
 ## Game
 
-## OS
+| Description                                          | Price                        | Time                     | Status                   |
+| ---------------------------------------------------- | ---------------------------- | ------------------------ | ------------------------ |
+| **Create Steam account**                             | <p align="right">∞100</p>    | <p align="center">1m</p> | <p align="center">⌨️</p> |
+| **Create Steam page**                                | <p align="right">∞100</p>    | <p align="center">1m</p> | <p align="center">⌨️</p> |
+| **Create server**                                    | <p align="right">∞1 000</p>  | <p align="center">1m</p> | <p align="center">⌨️</p> |
+| **Buy DNS**                                          | <p align="right">∞100</p>    | <p align="center">1m</p> | <p align="center">⌨️</p> |
+| **Buy hosting**                                      | <p align="right">∞100</p>    | <p align="center">1m</p> | <p align="center">⌨️</p> |
 
-## Server
+## OS
 
 ## AI
 
