@@ -7,6 +7,8 @@
 <img src="https://i.imgur.com/kx2UcUh.jpg" width="100%">
 
 > [**About**](#about)・
+[**Discussion**](#discussion)・
+[**Payment**](#payment)・
 [**Lang**](#lang)・
 [**Game**](#game)・
 [**OS**](#os)・
@@ -19,6 +21,15 @@
 [**V O I D os**](#v-o-i-d-os)・
 [**V O I D tech**](#v-o-i-d-tech)・
 [**V O I D ideology**](#v-o-i-d-ideology)
+
+## Discussion
+
+😀💬 [Ask a question in the discussion](https://github.com/voidspawner/void.task/discussions/1)
+
+## Payment
+
+Payment is made in **``voids``** internal currency. **``∞1 voids = $1``**
+Currency can be withdrawn in **BTC** · **USDT**
 
 ## Lang
 
