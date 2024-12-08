@@ -24,7 +24,7 @@
 
 ## Discussion
 
-😀💬 [Ask a question in the discussion](https://github.com/voidspawner/void.task/discussions/1)
+😀💬 **[Ask a question in the discussion](https://github.com/voidspawner/void.task/discussions/1)**
 
 ## Payment
 
