@@ -22,15 +22,15 @@
 
 ## Lang
 
-| Description                                          | Price   | Time | Status |
-| ---------------------------------------------------- | ------- | ---- | ------ |
-| Create Python version                                | ∞10 000 | 6m   |   ⌨️   |
-| Create GDScript version                              | ∞10 000 | 6m   |   ⌨️   |
-| Create JavaScript version                            | ∞10 000 | 6m   |   ⌨️   |
-| Create C++ version                                   | ∞10 000 | 6m   |        |
-| Create Swift version                                 | ∞10 000 | 6m   |        |
-| Create Kotlin version                                | ∞10 000 | 6m   |        |
-| Create virtual machine on C++ for bytecode execution | ∞10 000 | 6m   |        |
+| Description                                          | Price                        | Time                     | Status                   |
+| ---------------------------------------------------- | ---------------------------- | ------------------------ | ------------------------ |
+| Create Python version                                | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
+| Create GDScript version                              | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
+| Create JavaScript version                            | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
+| Create C++ version                                   | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
+| Create Swift version                                 | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
+| Create Kotlin version                                | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
+| Create virtual machine on C++ for bytecode execution | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
