@@ -24,9 +24,9 @@
 
 | Description                                          | Price                        | Time                     | Status                   |
 | ---------------------------------------------------- | ---------------------------- | ------------------------ | ------------------------ |
-| Create Python version                                | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
-| Create GDScript version                              | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
-| Create JavaScript version                            | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
+| **Create Python version**                            | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
+| **Create GDScript version**                          | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
+| **Create JavaScript version**                        | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
 | Create C++ version                                   | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
 | Create Swift version                                 | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
 | Create Kotlin version                                | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
