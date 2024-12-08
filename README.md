@@ -7,13 +7,13 @@
 <img src="https://i.imgur.com/kx2UcUh.jpg" width="100%">
 
 > [**About**](#about)・
-[Lang](#lang)・
-[Game](#game)・
-[OS](#os)・
-[Server](#server)・
-[AI](#ai)・
-[Tech](#tech)・
-[Spawner](#spawner)・
+[**Lang**](#lang)・
+[**Game**](#game)・
+[**OS**](#os)・
+[**Server**](#server)・
+[**AI**](#ai)・
+[**Tech**](#tech)・
+[**Spawner**](#spawner)・
 [**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-license)・
 [**V O I D os**](#v-o-i-d-os)・
@@ -31,6 +31,18 @@
 | Create Swift version                                 | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
 | Create Kotlin version                                | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
 | Create virtual machine on C++ for bytecode execution | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
+
+## Game
+
+## OS
+
+## Server
+
+## AI
+
+## Tech
+
+## Spawner
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
