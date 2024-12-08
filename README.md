@@ -7,11 +7,30 @@
 <img src="https://i.imgur.com/kx2UcUh.jpg" width="100%">
 
 > [**About**](#about)・
+[Lang](#lang)・
+[Game](#game)・
+[OS](#os)・
+[Server](#server)・
+[AI](#ai)・
+[Tech](#tech)・
+[Spawner](#spawner)・
 [**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-license)・
 [**V O I D os**](#v-o-i-d-os)・
 [**V O I D tech**](#v-o-i-d-tech)・
 [**V O I D ideology**](#v-o-i-d-ideology)
+
+## Lang
+
+| Description                                          | Price   | Time | Status |
+| ---------------------------------------------------- | ------- | ---- | ------ |
+| Create Python version                                | ∞10 000 | 6m   |   ⌨️   |
+| Create GDScript version                              | ∞10 000 | 6m   |   ⌨️   |
+| Create JavaScript version                            | ∞10 000 | 6m   |   ⌨️   |
+| Create C++ version                                   | ∞10 000 | 6m   |        |
+| Create Swift version                                 | ∞10 000 | 6m   |        |
+| Create Kotlin version                                | ∞10 000 | 6m   |        |
+| Create virtual machine on C++ for bytecode execution | ∞10 000 | 6m   |        |
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
