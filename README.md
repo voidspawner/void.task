@@ -33,33 +33,81 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Lang
 
-| Description                                          | Price                        | Time                     | Status                   |
-| ---------------------------------------------------- | ---------------------------- | ------------------------ | ------------------------ |
-| **Create Python version**                            | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
-| **Create GDScript version**                          | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
-| **Create JavaScript version**                        | <p align="right">∞10 000</p> | <p align="center">6m</p> | <p align="center">⌨️</p> |
-| Create C++ version                                   | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
-| Create Swift version                                 | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
-| Create Kotlin version                                | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
-| Create virtual machine on C++ for bytecode execution | <p align="right">∞10 000</p> | <p align="center">6m</p> |                          |
+| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
+| **Create PHP prototype version**                     | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
+| **Create Python prototype version**                  | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
+| **Create Python version**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| **Create GDScript version**                          | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| **Create JavaScript version**                        | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| Create C++ version                                   | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
+| Create Swift version                                 | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
+| Create Kotlin version                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
+| Create virtual machine on C++ for bytecode execution | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
 
 ## Game
 
-| Description                                          | Price                        | Time                     | Status                   |
-| ---------------------------------------------------- | ---------------------------- | ------------------------ | ------------------------ |
-| **Create Steam account**                             | <p align="right">∞100</p>    | <p align="center">1m</p> | <p align="center">⌨️</p> |
-| **Create Steam page**                                | <p align="right">∞100</p>    | <p align="center">1m</p> | <p align="center">⌨️</p> |
-| **Create server**                                    | <p align="right">∞1 000</p>  | <p align="center">1m</p> | <p align="center">⌨️</p> |
-| **Buy DNS**                                          | <p align="right">∞100</p>    | <p align="center">1m</p> | <p align="center">⌨️</p> |
-| **Buy hosting**                                      | <p align="right">∞100</p>    | <p align="center">1m</p> | <p align="center">⌨️</p> |
+| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
+| **Create Steam account**                             | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">✅</p> |
+| **Create Steam page**                                | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create server**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Buy DNS**                                          | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">⌨️</p> |
+| **Buy hosting**                                      | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">✅</p> |
+| **Create VN game creator**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create 2D game creator**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create 3D game creator**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create story game creator**                        | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create RPG game creator**                          | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create Social game creator**                       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create game character creator**                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create animation creator**                         | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create vapp creator**                              | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| Publish game                                         | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+
 
 ## OS
 
+| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
+| **Create prototype**                                 | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| Create Intel 8086 version                            | <p align="right">∞10 00</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+| Create Intel 80286 version                           | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center"></p>   |
+| Create Atari 65XE version                            | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center"></p>   |
+| Create Intel i9 + Nvidia 5090 version                | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
+
 ## AI
+
+| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
+| **Integrate Stable Diffusion**                       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Integrate ChatGPT**                                | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Integrate Character AI**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Integrate Python Speechrecognition**               | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Integrate Python Deeptranslator**                  | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Integrate EasyMocap**                              | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Integrate TTS**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| Create V O I D ai prototype                          | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
+| Create V O I D ai                                    | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
 
 ## Tech
 
+| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
+| **Create 3D draft of computer and robot tech**       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| Create 3D scheme of computer and robot tech          | <p align="right">∞100 000</p>       | <p align="center">6m</p>    | <p align="center"></p>   |
+| Produce tech parts                                   | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
+| Assemble tech parts                                  | <p align="right">∞100 000</p>       | <p align="center">1m</p>    | <p align="center"></p>   |
+| Sell tech products                                   | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
+
 ## Spawner
+
+| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
+| **Create game simulation**                           | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center">⌨️</p> |
+| **Create prototype**                                 | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
+| **Create first version**                             | <p align="right">∞1 000 000 000</p> | <p align="center">10y</p>   | <p align="center"></p>   |
+| **Create second version**                            | <p align="right">∞1 000 000 000</p> | <p align="center">10y</p>   | <p align="center"></p>   |
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
