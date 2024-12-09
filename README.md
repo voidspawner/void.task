@@ -116,7 +116,10 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create V O I D factory                               | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D medicine                              | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D farm                                  | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D shop                                  | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D delivery                              | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
 | Create V O I D car                                   | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D building                              | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D booster                               | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D satellite                             | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D orbital station                       | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
