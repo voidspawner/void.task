@@ -99,6 +99,8 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Produce tech parts                                   | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
 | Assemble tech parts                                  | <p align="right">∞100 000</p>       | <p align="center">1m</p>    | <p align="center"></p>   |
 | Sell tech products                                   | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create V O I D chip prototype                        | <p align="right">∞10 000 000</p>    | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create V O I D chip                                  | <p align="right">∞100 000 000</p>   | <p align="center">1y</p>    | <p align="center"></p>   |
 
 ## Spawner
 
