@@ -33,7 +33,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Lang
 
-| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=160>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create PHP prototype version**                     | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
 | **Create Python prototype version**                  | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
@@ -47,7 +47,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Game
 
-| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=160>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create Steam account**                             | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">✅</p> |
 | **Create Steam page**                                | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">⌨️</p> |
@@ -68,7 +68,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## OS
 
-| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=160>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create prototype**                                 | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | Create Intel 8086 version                            | <p align="right">∞10 00</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
@@ -78,7 +78,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## AI
 
-| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=160>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Integrate Stable Diffusion**                       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Integrate ChatGPT**                                | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
@@ -92,7 +92,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Tech
 
-| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=160>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create 3D draft of computer and robot tech**       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | Create 3D scheme of computer and robot tech          | <p align="right">∞100 000</p>       | <p align="center">6m</p>    | <p align="center"></p>   |
@@ -102,7 +102,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Spawner
 
-| Description<br><img width=1000>                      | Price<br><img width=100>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=160>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create game simulation**                           | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center">⌨️</p> |
 | **Create prototype**                                 | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
