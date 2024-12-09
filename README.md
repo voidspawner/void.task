@@ -46,6 +46,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Create V O I D db**                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create V O I D server**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create V O I D format**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| **Create unit tests**                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | Create virtual machine on C++ for bytecode execution | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
 
 ## Game
