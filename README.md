@@ -111,7 +111,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create V O I D tower                                 | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
 | Create V O I D server                                | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
 | Create V O I D dron                                  | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
-| Create V O I D chip prototype                        | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D chip prototype                        | <p align="right">∞10 000 000</p>    | <p align="center">1y</p>    | <p align="center"></p>   |
 | Create V O I D chip                                  | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D factory                               | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D medicine                              | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
