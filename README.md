@@ -74,7 +74,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create Intel 8086 version                            | <p align="right">∞10 00</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
 | Create Intel 80286 version                           | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center"></p>   |
 | Create Atari 65XE version                            | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center"></p>   |
-| Create Intel i9 + Nvidia 5090 version                | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create Intel i9 + NVIDIA 5090 version                | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
 
 ## AI
 
