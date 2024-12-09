@@ -105,10 +105,22 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Create 3D draft of computer and robot tech**       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | Create 3D scheme of computer and robot tech          | <p align="right">∞100 000</p>       | <p align="center">6m</p>    | <p align="center"></p>   |
 | Produce tech parts                                   | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
-| Assemble tech parts                                  | <p align="right">∞100 000</p>       | <p align="center">1m</p>    | <p align="center"></p>   |
-| Sell tech products                                   | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
-| Create V O I D chip prototype                        | <p align="right">∞10 000 000</p>    | <p align="center">1y</p>    | <p align="center"></p>   |
-| Create V O I D chip                                  | <p align="right">∞100 000 000</p>   | <p align="center">1y</p>    | <p align="center"></p>   |
+| Assemble tech parts                                  | <p align="right">∞1 000 000</p>     | <p align="center">1m</p>    | <p align="center"></p>   |
+| Sell tech products                                   | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create V O I D smartphone                            | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create V O I D tower                                 | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create V O I D server                                | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create V O I D dron                                  | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create V O I D chip prototype                        | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D chip                                  | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D factory                               | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D medicine                              | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D farm                                  | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D car                                   | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D booster                               | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D satellite                             | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D orbital station                       | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D planet station                        | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
 
 ## Spawner
 
