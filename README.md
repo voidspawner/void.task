@@ -43,6 +43,9 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create C++ version                                   | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
 | Create Swift version                                 | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
 | Create Kotlin version                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
+| **Create V O I D db**                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| **Create V O I D server**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| **Create V O I D format**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | Create virtual machine on C++ for bytecode execution | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
 
 ## Game
@@ -63,6 +66,10 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Create game character creator**                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create animation creator**                         | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create vapp creator**                              | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Generate assets**                                  | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Upload assets**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create social network**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| **Create V O I D voids currency**                    | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | Publish first version                                | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
 | Publish second version                               | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
 
@@ -71,7 +78,8 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create prototype**                                 | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| Create Intel 8086 version                            | <p align="right">∞10 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+| **Create file system**                               | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| Create Intel 8086 version                            | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center"></p>   |
 | Create Intel 80286 version                           | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center"></p>   |
 | Create Atari 65XE version                            | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center"></p>   |
 | Create Intel i9 + NVIDIA 5090 version                | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
