@@ -63,8 +63,8 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Create game character creator**                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create animation creator**                         | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create vapp creator**                              | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| Publish first version of game                        | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
-| Publish second version of game                       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+| Publish first version                                | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+| Publish second version                               | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
 
 ## OS
 
