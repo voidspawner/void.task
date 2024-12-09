@@ -33,7 +33,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Lang
 
-| Description<br><img width=1000>                      | Price<br><img width=160>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create PHP prototype version**                     | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
 | **Create Python prototype version**                  | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
