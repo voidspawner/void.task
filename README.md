@@ -2,7 +2,7 @@
 
 ## About
 
-**⌜V O I D task⌟**  is a list of tasks required to create a **[V O I D spawner](https://github.com/voidspawner/void.ideology)**.
+**⌜V O I D task⌟**  is a list of tasks required to create a **[V O I D spawner](https://github.com/voidspawner/void.ideology)**. By adding your code to the repository, you are publishing it under the **V O I D licence**.
 
 <img src="https://i.imgur.com/kx2UcUh.jpg" width="100%">
 
