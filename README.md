@@ -43,9 +43,9 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create C++ version                                   | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
 | Create Swift version                                 | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
 | Create Kotlin version                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
-| **Create V O I D db**                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
-| **Create V O I D server**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
-| **Create V O I D format**                            | <p align="right">∞1 000</p>         | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| **Create V O I D db**                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
+| **Create V O I D server**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
+| **Create V O I D format**                            | <p align="right">∞1 000</p>         | <p align="center">6m</p>    | <p align="center">✅</p> |
 | **Create unit tests**                                | <p align="right">∞1 000</p>         | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create documentation**                             | <p align="right">∞1 000</p>         | <p align="center">6m</p>    | <p align="center">✅</p> |
 | Create virtual machine on C++ for bytecode execution | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
@@ -90,13 +90,12 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 | Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
-| **Integrate Stable Diffusion**                       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Integrate ChatGPT**                                | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Integrate Character AI**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Integrate Python Speechrecognition**               | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Integrate Python Deeptranslator**                  | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Integrate Stable Diffusion**                       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
+| **Integrate ChatGPT**                                | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
+| **Integrate Python Speechrecognition**               | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
+| **Integrate Python Deeptranslator**                  | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
+| **Integrate TTS**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
 | **Integrate EasyMocap**                              | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Integrate TTS**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | Create V O I D ai prototype                          | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
 | Create V O I D ai                                    | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
 
@@ -104,6 +103,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 | Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
+| **Create 2D draft of computer and robot tech**       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
 | **Create 3D draft of computer and robot tech**       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | Create 3D scheme of computer and robot tech          | <p align="right">∞100 000</p>       | <p align="center">6m</p>    | <p align="center"></p>   |
 | Produce tech parts                                   | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
@@ -113,8 +113,8 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create V O I D tower                                 | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
 | Create V O I D server                                | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
 | Create V O I D dron                                  | <p align="right">∞1 000 000</p>     | <p align="center">1y</p>    | <p align="center"></p>   |
-| Create V O I D chip prototype                        | <p align="right">∞10 000 000</p>    | <p align="center">1y</p>    | <p align="center"></p>   |
-| Create V O I D chip                                  | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create V O I D cpu prototype                         | <p align="right">∞10 000 000</p>    | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create V O I D cpu                                   | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D factory                               | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D medicine                              | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D farm                                  | <p align="right">∞100 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
