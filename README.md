@@ -21,8 +21,8 @@
 [**V O I D lang**](#v-o-i-d-license)・
 [**V O I D os**](#v-o-i-d-os)・
 [**V O I D tech**](#v-o-i-d-tech)・
-[**V O I D ideology**](#v-o-i-d-ideology)
-[**V O I D license**](#v-o-i-d-license)・
+[**V O I D ideology**](#v-o-i-d-ideology)・
+[**V O I D license**](#v-o-i-d-license)
 
 ## Discussion
 
