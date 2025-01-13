@@ -77,8 +77,9 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Upload assets**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create social network**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create V O I D voids currency**                    | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
-| Publish first version                                | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
-| Publish second version                               | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+| Publish first version (Infinite stories)             | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| Publish second version (Infinite 2D games)           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+| Publish second version (Infinite 3D games)           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
 
 ## OS
 
