@@ -131,17 +131,18 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create V O I D building                              | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D booster                               | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D satellite                             | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
-| Create V O I D orbital station                       | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
-| Create V O I D planet station                        | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
 
 ## Spawner
 
-| Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
-| ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
-| **Create game simulation**                           | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center">⌨️</p> |
-| Create prototype                                     | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
-| Create first version                                 | <p align="right">∞1 000 000 000</p> | <p align="center">10y</p>   | <p align="center"></p>   |
-| Create second version                                | <p align="right">∞1 000 000 000</p> | <p align="center">10y</p>   | <p align="center"></p>   |
+| Description<br><img width=1000>                      | Price<br><img width=200>              | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ------------------------------------- | --------------------------- | ------------------------ |
+| **Create game spawner**                              | <p align="right">∞100 000</p>         | <p align="center">1y</p>    | <p align="center">⌨️</p> |
+| Create social spawner                                | <p align="right">∞1 000 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
+| Create product spawner                               | <p align="right">∞10 000 000</p>      | <p align="center">2y</p>    | <p align="center"></p>   |
+| Create orbital spawner                               | <p align="right">∞1 000 000 000</p>   | <p align="center">3y</p>    | <p align="center"></p>   |
+| Create Moon spawner                                  | <p align="right">∞1 000 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
+| Create planet spawner                                | <p align="right">∞10 000 000 000</p>  | <p align="center">10y</p>   | <p align="center"></p>   |
+| Create star spawner                                  | <p align="right">∞100 000 000 000</p> | <p align="center">20y</p    | <p align="center"></p>   |
 
 ## V O I D game
 **[⌜V O I D game⌟](https://github.com/voidspawner/void.game)** is a game that creates an **infinite** number of games, v-apps and content.
