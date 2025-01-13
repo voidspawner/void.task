@@ -38,7 +38,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Lang
 
-| Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=300>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create PHP prototype version**                     | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
 | **Create Python prototype version**                  | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
@@ -57,7 +57,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Game
 
-| Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=300>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create Steam account**                             | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">✅</p> |
 | **Create Steam page**                                | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">⌨️</p> |
@@ -83,7 +83,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## OS
 
-| Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=300>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create prototype**                                 | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create file system**                               | <p align="right">∞10 000</p>        | <p align="center">1m</p>    | <p align="center">⌨️</p> |
@@ -95,7 +95,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## AI
 
-| Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=300>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Integrate Stable Diffusion**                       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
 | **Integrate ChatGPT**                                | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
@@ -108,7 +108,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Tech
 
-| Description<br><img width=1000>                      | Price<br><img width=200>            | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=300>            | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create 2D draft of computer and robot tech**       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">✅</p> |
 | **Create 3D draft of computer and robot tech**       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
@@ -134,7 +134,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 
 ## Spawner
 
-| Description<br><img width=1000>                      | Price<br><img width=200>              | Time<br><img>               | Status<br><img>          |
+| Description<br><img width=1000>                      | Price<br><img width=300>              | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ------------------------------------- | --------------------------- | ------------------------ |
 | **Create game spawner**                              | <p align="right">∞100 000</p>         | <p align="center">1y</p>    | <p align="center">⌨️</p> |
 | Create social spawner                                | <p align="right">∞1 000 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
@@ -142,7 +142,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create orbital spawner                               | <p align="right">∞1 000 000 000</p>   | <p align="center">3y</p>    | <p align="center"></p>   |
 | Create Moon spawner                                  | <p align="right">∞1 000 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create planet spawner                                | <p align="right">∞10 000 000 000</p>  | <p align="center">10y</p>   | <p align="center"></p>   |
-| Create star spawner                                  | <p align="right">∞100 000 000 000</p> | <p align="center">20y</p    | <p align="center"></p>   |
+| Create star spawner                                  | <p align="right">∞100 000 000 000</p> | <p align="center">20y</p>   | <p align="center"></p>   |
 
 ## V O I D game
 **[⌜V O I D game⌟](https://github.com/voidspawner/void.game)** is a game that creates an **infinite** number of games, v-apps and content.
