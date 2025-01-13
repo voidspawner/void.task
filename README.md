@@ -7,7 +7,7 @@
 > [!IMPORTANT]
 > By adding your code to the repository, you are publishing it under the **[V O I D licence](#v-o-i-d-license)**.
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/spawner-shape.webp" width="100%">
+<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/logo.jpg" width="100%">
 
 > [**About**](#about)・
 [**Discussion**](#discussion)・
