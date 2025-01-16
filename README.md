@@ -62,6 +62,8 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Create Steam account**                             | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">✅</p> |
 | **Create Steam page**                                | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create server**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create GitHub site**                               | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">✅</p> |
+| **Create assets**                                    | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">⌨️</p> |
 | **Buy DNS**                                          | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">⌨️</p> |
 | **Buy hosting**                                      | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">✅</p> |
 | **Create VN game creator**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
