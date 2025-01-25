@@ -147,7 +147,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create star spawner                                  | <p align="right">∞100 000 000 000</p> | <p align="center">20y</p>   | <p align="center"></p>   |
 
 ## V O I D game
-**[⌜V O I D game⌟](https://github.com/voidspawner/void.game)** is a game that creates an **infinite** number of games, v-apps and content.
+**[⌜V O I D game⌟](https://voidspawner.github.io)** is a game that creates an **infinite** number of games, v-apps and content.
 
 ## V O I D social
 **⌜ V O I D social ⌟** is a social network where you can **quickly** and **easily** communicate without words with people all over the world.
