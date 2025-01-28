@@ -71,7 +71,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Create game character creator**                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create animation creator**                         | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create vapp creator**                              | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| Publish first version (Infinite stories creator)     | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Publish first version (Infinite stories creator)** | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | Publish second version (Infinite 2D games creator)   | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
 | Publish third version (Infinite 3D games creator)    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
 
