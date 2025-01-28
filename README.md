@@ -89,7 +89,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Create content**                                   | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Buy DNS**                                          | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">⌨️</p> |
 | **Buy hosting**                                      | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">✅</p> |
-| **Create V O I D voids currency**                    | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| **Create voids currency**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 
 ## OS
 
