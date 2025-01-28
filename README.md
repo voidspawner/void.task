@@ -61,27 +61,35 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create Steam account**                             | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">✅</p> |
 | **Create Steam page**                                | <p align="right">∞100</p>           | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Create server**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create GitHub site**                               | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">✅</p> |
 | **Create assets**                                    | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">⌨️</p> |
-| **Buy DNS**                                          | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">⌨️</p> |
-| **Buy hosting**                                      | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">✅</p> |
 | **Create VN game creator**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create 2D game creator**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create 3D game creator**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create story game creator**                        | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create RPG game creator**                          | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Create Social game creator**                       | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create game character creator**                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create animation creator**                         | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create vapp creator**                              | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Generate assets**                                  | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Upload assets**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| **Create social network**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| Publish first version (Infinite stories creator)     | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| Publish second version (Infinite 2D games creator)   | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+| Publish third version (Infinite 3D games creator)    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
+
+## Social
+
+| Description<br><img width=1000>                      | Price<br><img width=300>            | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
+| **YouTube, TikTok shorts**                           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **YouTube, Twitch, Kick streams**                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **YouTube music**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **YouTube kids**                                     | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **YouTube study**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Telegram, X, Weibo news**                          | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create server**                                    | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create content**                                   | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Buy DNS**                                          | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">⌨️</p> |
+| **Buy hosting**                                      | <p align="right">∞100</p>           | <p align="center">1d</p>    | <p align="center">✅</p> |
 | **Create V O I D voids currency**                    | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
-| Publish first version (Infinite stories)             | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center">⌨️</p> |
-| Publish second version (Infinite 2D games)           | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
-| Publish third version (Infinite 3D games)            | <p align="right">∞1 000</p>         | <p align="center">1m</p>    | <p align="center"></p>   |
 
 ## OS
 
