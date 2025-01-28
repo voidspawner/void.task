@@ -148,7 +148,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Description<br><img width=1000>                      | Price<br><img width=300>              | Time<br><img>               | Status<br><img>          |
 | ---------------------------------------------------- | ------------------------------------- | --------------------------- | ------------------------ |
 | **Create game spawner**                              | <p align="right">∞100 000</p>         | <p align="center">1y</p>    | <p align="center">⌨️</p> |
-| Create social spawner                                | <p align="right">∞1 000 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
+| **Create social spawner**                            | <p align="right">∞1 000 000</p>       | <p align="center">1y</p>    | <p align="center">⌨️</p> |
 | Create product spawner                               | <p align="right">∞10 000 000</p>      | <p align="center">2y</p>    | <p align="center"></p>   |
 | Create orbital spawner                               | <p align="right">∞1 000 000 000</p>   | <p align="center">3y</p>    | <p align="center"></p>   |
 | Create Moon spawner                                  | <p align="right">∞1 000 000 000</p>   | <p align="center">5y</p>    | <p align="center"></p>   |
