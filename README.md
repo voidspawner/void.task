@@ -143,6 +143,14 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | Create V O I D booster                               | <p align="right">∞1 000 000 000</p> | <p align="center">5y</p>    | <p align="center"></p>   |
 | Create V O I D satellite                             | <p align="right">∞10 000 000</p>    | <p align="center">5y</p>    | <p align="center"></p>   |
 
+## Work
+
+| Description<br><img width=1000>                      | Price<br><img width=300>              | Time<br><img>               | Status<br><img>          |
+| ---------------------------------------------------- | ------------------------------------- | --------------------------- | ------------------------ |
+| **Create taks vapp**                                 | <p align="right">∞1 000</p>           | <p align="center">1m</p>    | <p align="center">⌨️</p> |
+| **Create AI for creating and accepting tasks**       | <p align="right">∞100 000</p>         | <p align="center">1y</p>    | <p align="center">⌨️</p> |
+| **Buying office space in cities worldwide**          | <p align="right">∞10 000 000</p>      | <p align="center">1y</p>    | <p align="center">⌨️</p> |
+
 ## Spawner
 
 | Description<br><img width=1000>                      | Price<br><img width=300>              | Time<br><img>               | Status<br><img>          |
