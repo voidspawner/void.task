@@ -42,6 +42,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | ---------------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ |
 | **Create PHP prototype version**                     | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
 | **Create Python prototype version**                  | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
+| **Create GDScript prototype version**                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
 | **Create Python version**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create GDScript version**                          | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create JavaScript version**                        | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
