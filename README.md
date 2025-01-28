@@ -113,8 +113,9 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Integrate Python Speechrecognition**               | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">✅</p> |
 | **Integrate Python Deeptranslator**                  | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">✅</p> |
 | **Integrate TTS**                                    | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">✅</p> |
-| **Integrate EasyMocap**                              | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">⌨️</p> |
 | **Integrate DeepSeek**                               | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">✅</p> |
+| **Integrate Qwen**                                   | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">✅</p> |
+| **Integrate EasyMocap**                              | <p align="right">∞1 000</p>         | <p align="center">1w</p>    | <p align="center">⌨️</p> |
 | **Create V O I D ai prototype**                      | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | Create V O I D ai                                    | <p align="right">∞100 000</p>       | <p align="center">1y</p>    | <p align="center"></p>   |
 
