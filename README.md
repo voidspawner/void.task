@@ -45,9 +45,9 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | **Create Python version**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create GDScript version**                          | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create JavaScript version**                        | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
-| Create C++ version                                   | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
-| Create Swift version                                 | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
-| Create Kotlin version                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center"></p>   |
+| Create C++ version                                   | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| Create Swift version                                 | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
+| Create Kotlin version                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">⌨️</p> |
 | **Create V O I D db**                                | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
 | **Create V O I D server**                            | <p align="right">∞10 000</p>        | <p align="center">6m</p>    | <p align="center">✅</p> |
 | **Create V O I D format**                            | <p align="right">∞1 000</p>         | <p align="center">6m</p>    | <p align="center">✅</p> |
