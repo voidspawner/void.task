@@ -151,7 +151,7 @@ Currency can be withdrawn in **``BTC``** · **``USDT``**
 | ---------------------------------------------------- | ------------------------------------- | --------------------------- | ------------------------ |
 | **Create taks vapp**                                 | <p align="right">∞1 000</p>           | <p align="center">1m</p>    | <p align="center">⌨️</p> |
 | **Create AI for creating and accepting tasks**       | <p align="right">∞100 000</p>         | <p align="center">1y</p>    | <p align="center">⌨️</p> |
-| **Buying office space in cities worldwide**          | <p align="right">∞10 000 000</p>      | <p align="center">1y</p>    | <p align="center">⌨️</p> |
+| **Buy office space in cities worldwide**             | <p align="right">∞10 000 000</p>      | <p align="center">1y</p>    | <p align="center">⌨️</p> |
 | **Create autonomous server rooms**                   | <p align="right">∞1 000 000</p>       | <p align="center">1y</p>    | <p align="center">⌨️</p> |
 
 ## Spawner
